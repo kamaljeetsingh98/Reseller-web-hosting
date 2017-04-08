@@ -1,0 +1,2 @@
+# Reseller-web-hosting
+Reseller web hosting is a shared hosting account itself with extra tools which help to resell  the hosting space. Reseller hosting packages come up with great technical control, a billing  software which help to create an invoice for clients and some other perks also.There are  number of reseller hosting plans which clients resell at their own cost and earn good amount  of money.
